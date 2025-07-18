@@ -1,0 +1,12 @@
+Molding Machine 1 started
+Conveyor Belt 1 started
+Inspection Unit started
+Molding Machine 1 started
+Conveyor Belt 1 started
+Inspection Unit started
+Molding Machine 1 started
+Conveyor Belt 1 started
+Inspection Unit started
+Molding Machine 1 stopped
+Conveyor Belt 1 stopped
+Inspection Unit stopped
